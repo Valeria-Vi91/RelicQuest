@@ -50,6 +50,7 @@ La aventura empieza en el templo viviente. Explora, lee las pistas, elige entre 
 
 Repositorio del proyecto
 
-Enlace de GitHub: PENDIENTE_DE_AÑADIR_URL_REAL
+El código fuente de nuestro proyecto Relic Quest:
+El templo viviente está disponible en el siguiente enlace:
 
-Antes de la entrega, sustituir el texto anterior por la URL real del repositorio público creado en GitHub. Incorporar la misma URL en un comentario al comienzo de Main.java, según lo indicado en el enunciado del proyecto.
+https://github.com/Valeria-Vi91/RelicQuest
